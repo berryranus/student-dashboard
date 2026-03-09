@@ -62,7 +62,7 @@ During the development process, several technical challenges were encountered. H
 ---
 
 ## 📂 Project Structure
-
+```bash
 student-dashboard/
 ├── src/
 │   ├── components/      
@@ -76,7 +76,7 @@ student-dashboard/
 │   └── main.jsx                # React DOM render
 ├── package.json
 └── README.md
-
+```
 ---
 
 **🚀 How to Set Up and Run the Project**
