@@ -94,7 +94,7 @@ Step 1: Clone or Download the Repository
 Open your terminal (Command Prompt, PowerShell, or Terminal) and run:
 
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/student-dashboard.git](https://github.com/YOUR_GITHUB_USERNAME/student-dashboard.git)
+git clone [https://github.com/berryranus/student-dashboard.git](https://github.com/berryranus/student-dashboard.git)
 cd student-dashboard
 ```
 (If you downloaded the ZIP file, extract it, open the terminal in that folder, and skip the git clone command.)
